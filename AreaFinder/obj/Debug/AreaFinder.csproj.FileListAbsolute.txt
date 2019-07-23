@@ -1,0 +1,17 @@
+C:\Users\cpadole\source\repos\AreaFinder\AreaFinder\bin\Debug\AreaFinder.exe.config
+C:\Users\cpadole\source\repos\AreaFinder\AreaFinder\bin\Debug\AreaFinder.exe
+C:\Users\cpadole\source\repos\AreaFinder\AreaFinder\bin\Debug\AreaFinder.pdb
+C:\Users\cpadole\source\repos\AreaFinder\AreaFinder\obj\Debug\AreaFinder.csprojResolveAssemblyReference.cache
+C:\Users\cpadole\source\repos\AreaFinder\AreaFinder\obj\Debug\AreaFinder.csproj.CoreCompileInputs.cache
+C:\Users\cpadole\source\repos\AreaFinder\AreaFinder\obj\Debug\AreaFinder.exe
+C:\Users\cpadole\source\repos\AreaFinder\AreaFinder\obj\Debug\AreaFinder.pdb
+C:\Users\cpadole\source\repos\AreaFinder\AreaFinder\bin\Debug\xunit.abstractions.dll
+C:\Users\cpadole\source\repos\AreaFinder\AreaFinder\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\cpadole\source\repos\AreaFinder\AreaFinder\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\cpadole\source\repos\AreaFinder\AreaFinder\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\cpadole\source\repos\AreaFinder\AreaFinder\bin\Debug\xunit.assert.dll
+C:\Users\cpadole\source\repos\AreaFinder\AreaFinder\bin\Debug\xunit.core.dll
+C:\Users\cpadole\source\repos\AreaFinder\AreaFinder\bin\Debug\xunit.execution.desktop.dll
+C:\Users\cpadole\source\repos\AreaFinder\AreaFinder\bin\Debug\xunit.assert.xml
+C:\Users\cpadole\source\repos\AreaFinder\AreaFinder\bin\Debug\xunit.core.xml
+C:\Users\cpadole\source\repos\AreaFinder\AreaFinder\bin\Debug\xunit.execution.desktop.xml
